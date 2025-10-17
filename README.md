@@ -92,7 +92,7 @@ ERROR: Skipping '@rules_xcodeproj_generated//generator/Telegram/Telegram_xcodepr
 
 If you encounter this issue, re-run the project generation steps in the README.
 
-## XCode build frameworks issues: permission denied, no such directory or file
+## XCode build issues with frameworks: permission denied, no such directory or file
 
 On MacOS 15.5 and newer you might encounter a Xcode build failure accompainded by this errors:
 
