@@ -94,7 +94,7 @@ If you encounter this issue, re-run the project generation steps in the README.
 
 ## XCode build issues with frameworks: permission denied, no such directory or file
 
-On MacOS 15.5 and newer you might encounter a Xcode build failure accompainded by this errors:
+On MacOS 15.4 and newer you might encounter a Xcode build failure accompainded by this errors:
 
 ```
 .../SSignalKit/SwiftSignalKit/SwiftSignalKitFramework.framework/Modules/SwiftSignalKit.swiftmodule/arm64-apple-ios.swiftdoc: No such file or directory
